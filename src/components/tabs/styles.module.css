@@ -1,0 +1,15 @@
+.tabs {
+  display: flex;
+}
+
+.tab {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.tab[data-active="true"] {
+  background-color: #ccc;
+}

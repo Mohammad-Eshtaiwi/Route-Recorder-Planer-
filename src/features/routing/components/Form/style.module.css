@@ -1,0 +1,10 @@
+.form {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.inputGourp {
+  display: grid;
+  gap: 0.5rem;
+}
